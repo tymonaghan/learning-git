@@ -7,4 +7,4 @@ That worked out well, here comes test number 2 to check the diff command.
 ---
 still a bit confused about diff, test number 3
 ---
-Lets try this one more time...
+Lets try this one more time... OK but seriously, will diff work now?
