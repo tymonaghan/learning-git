@@ -1,10 +1,5 @@
-# learning-git
-tymonaghan's test repo for learning the command line
+Updated Readme
+==============
+*last edited 1/20/2018 at 12:40pm*
 
-This is my first test of making a change to the readme and now I'm going to try to commit and push it
-===
-That worked out well, here comes test number 2 to check the diff command.
----
-still a bit confused about diff, test number 3
----
-Lets try this one more time... OK but seriously, will diff work now?
+I have now used this repo to successfully push, pull, commit changes to, check the status of, and add files through the command line. I also have successfully used pandoc to convert .md files into .html or .docx files successfully. I'm updating this readme one last time through the command line as a refresher!
